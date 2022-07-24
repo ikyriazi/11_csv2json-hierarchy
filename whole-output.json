@@ -1,0 +1,494 @@
+{
+ "name": "CdV Ost\u00b3 2022",
+ "children": [
+  {
+   "name": "National Archives in Krakow",
+   "children": [
+    {
+     "name": "Cartographic collection - selected objects",
+     "children": [
+      {
+       "name": "BackToTheMap",
+       "value": 1
+      },
+      {
+       "name": "Paracosm - mindful maps",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Jagiellonian Library",
+   "children": [
+    {
+     "name": "\u015aredniowieczna astronomia / Medieval Astronomy",
+     "children": [
+      {
+       "name": "Loxper virtual guide",
+       "value": 1
+      }
+     ]
+    },
+    {
+     "name": "Chopin",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "bpk-Bildagentur",
+   "children": [
+    {
+     "name": "Historische Portr\u00e4tsammlung - Carte de Visite",
+     "children": [
+      {
+       "name": "Radikale Gespr\u00e4che",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Damast-und Frottiermuseum Gro\u00dfsch\u00f6nau",
+   "children": [
+    {
+     "name": "Schatzkammer der Damaste",
+     "children": [
+      {
+       "name": "Abstract Visioner",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Deutsches Stuhlbaumuseum Rabenau",
+   "children": [
+    {
+     "name": "Stile, St\u00fchle, Meisterwerke",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Digitales Archiv Mathematischer Modelle",
+   "children": [
+    {
+     "name": "Digitales Archiv Mathematischer Modelle",
+     "children": [
+      {
+       "name": "Klingende Mathemodelle in VR",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Forschungsbibliothek Gotha der Uni Erfurt",
+   "children": [
+    {
+     "name": "Georg Forsters Entdeckung der S\u00fcdsee",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Gedenkst\u00e4tte Bautzner Stra\u00dfe Dresden",
+   "children": [
+    {
+     "name": "DORT & HIER - Verschobenes Ged\u00e4chtnis",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Herzogin Anna Amalia Bibliothek",
+   "children": [
+    {
+     "name": "Stadtplan von Paris aus dem Jahr 1739",
+     "children": [
+      {
+       "name": "Liquitecture",
+       "value": 1
+      },
+      {
+       "name": "Chronoscope Hamburg / Chronoscope World",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Historische Schauweberei Braunsdorf",
+   "children": [
+    {
+     "name": "Webmuster und Textilmaschinen",
+     "children": [
+      {
+       "name": "webweb",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Leibniz-Institut f\u00fcr L\u00e4nderkunde Leipzig",
+   "children": [
+    {
+     "name": "Messtischbl\u00e4tter des Deutschen Reiches zur Provinz Schlesien",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Kadan City Museum",
+   "children": [
+    {
+     "name": "Franziskaner Kloster in Kaaden Innenr\u00e4ume der Klosterkirche",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Moravian Library in Brno",
+   "children": [
+    {
+     "name": "Maps and pictures of Brno",
+     "children": [
+      {
+       "name": "Loxper virtual guide",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Moravian-Silesian Research Library in Ostrava",
+   "children": [
+    {
+     "name": "Wooden churches in T\u011b\u0161\u00edn Silesia",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Museum - Naturalienkabinett Waldenburg",
+   "children": [
+    {
+     "name": "Barocke Seesternsammlung",
+     "children": [
+      {
+       "name": "Radikale Gespr\u00e4che",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Museum f\u00fcr Naturkunde Berlin",
+   "children": [
+    {
+     "name": "Ehrenberg Zeichnungen / Ehrenberg Drawings",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Musikinstrumentenmuseum der Uni Leipzig",
+   "children": [
+    {
+     "name": "Vier Musikinstrumente aus vier Jahrhunderten",
+     "children": [
+      {
+       "name": "Klingende Mathemodelle in VR",
+       "value": 1
+      },
+      {
+       "name": "Silbermann Reloaded",
+       "value": 1
+      },
+      {
+       "name": "Chronoscope Hamburg / Chronoscope World",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Geological Museum, University of Wroclaw",
+   "children": [
+    {
+     "name": "Fossils from So\u015bnica",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "National Museum in Wroclaw",
+   "children": [
+    {
+     "name": "The National Museum in Wroc\u0142aw",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "University Museum, University of Wroclaw",
+   "children": [
+    {
+     "name": "Ceremonial academic dresses and colours",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "National Library of the Czech Republic",
+   "children": [
+    {
+     "name": "Monuments of the Czech Republic in old pictures",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Naturkundemuseum Leipzig",
+   "children": [
+    {
+     "name": "Tageb\u00fccher der Museumsdirektoren 1932-1946",
+     "children": [
+      {
+       "name": "#Tagmotion, Tags im Museum",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Ossolineum / Ossoli\u0144ski National Institute",
+   "children": [
+    {
+     "name": "Wroc\u0142aw - Dresden: Heritage and Urban History",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Regional Museum in Teplice",
+   "children": [
+    {
+     "name": "Josef V\u00e1chal's ex libris",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "SLUB Dresden",
+   "children": [
+    {
+     "name": "Vermessen - Karten und Ansichten im Dreil\u00e4ndereck",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "SAVE (SLUB Dresden)",
+   "children": [
+    {
+     "name": "Privatfilme Hirsch",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Granitabbaumuseum K\u00f6nigshainer Berge",
+   "children": [
+    {
+     "name": "Harte Arbeit, schwerer Stein",
+     "children": [
+      {
+       "name": "Ein Tag im Leben eines Steinarbeiters",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Schlesisches Museum zu G\u00f6rlitz",
+   "children": [
+    {
+     "name": "Hinterglasbilder aus Kaiserswalde / Las\u00f3wka, 1750 - 1900",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Sorbisches Institut Bautzen",
+   "children": [
+    {
+     "name": "Satirische Darstellung einer gescheiterten Stadtflucht",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Staatliche Schl\u00f6sser, Burgen und G\u00e4rten Sachsen gGmbH",
+   "children": [
+    {
+     "name": "Radikale Muster \u2013 Spritzdekor-Keramik aus Colditz",
+     "children": [
+      {
+       "name": "Dackel in Trouble",
+       "value": 1
+      },
+      {
+       "name": "Fine Young Radicals",
+       "value": 1
+      },
+      {
+       "name": "Radikale Gespr\u00e4che",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Stadtgeschichtliches Museum Leipzig",
+   "children": [
+    {
+     "name": "Historische Daguerreotypien",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Stiftung Deutsches Technikmuseum Berlin",
+   "children": [
+    {
+     "name": "Hammer-Sammlung Ludwig Thome",
+     "children": [
+      {
+       "name": "HAMMERLORD",
+       "value": 1
+      },
+      {
+       "name": "#hammerpairs",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Stiftung Kraftwerk Hirschfelde",
+   "children": [
+    {
+     "name": "Pl\u00e4ne und Fotos Kraftwerk Hirschfelde",
+     "children": [
+      {
+       "name": "Old photos become influencers",
+       "value": 1
+      },
+      {
+       "name": "Chronoscope Hamburg / Chronoscope World",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Education and Research Library of the Pilsen Region",
+   "children": [
+    {
+     "name": "German-language periodicals published in Pilsen",
+     "value": 1
+    },
+    {
+     "name": "Personalities of the Pilsen Region",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Universit\u00e4tsbibliothek Chemnitz",
+   "children": [
+    {
+     "name": "Illustrierte Modezeitschriften aus dem 19. Jahrhundert",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Universit\u00e4tsbibliothek Leipzig",
+   "children": [
+    {
+     "name": "M\u00fcnzsammlung der UB Leipzig",
+     "children": [
+      {
+       "name": "Wishing Well",
+       "value": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Universit\u00e4tsbibliothek TU Bergakademie Freiberg",
+   "children": [
+    {
+     "name": "Uniformen nach dem Freiberger Fu\u00df 1768",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "University of Wroclaw - Institute of Art History",
+   "children": [
+    {
+     "name": "19th century churches in Silesia and their furnishings",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "Verein f\u00fcr Computergenealogie",
+   "children": [
+    {
+     "name": "Casualty lists of the First World War - Saxony, Poland, Czechia",
+     "value": 1
+    }
+   ]
+  },
+  {
+   "name": "ZCOM Zuse-Computer-Museum",
+   "children": [
+    {
+     "name": "Zuse-Rechner",
+     "children": [
+      {
+       "name": "UHF-converter",
+       "value": 1
+      }
+     ]
+    },
+    {
+     "name": "Bauelementesammlung der DDR in Streichholzschachteln",
+     "value": 1
+    }
+   ]
+  }
+ ]
+}
